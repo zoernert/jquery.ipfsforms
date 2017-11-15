@@ -12,7 +12,9 @@ Requires jQuery 1.7.2 or later. Compatible with jQuery 2.x.x and 3.x.x.
 ### Download
 
 ### CDN 
-
+```
+<script src="https://raw.githubusercontent.com/zoernert/jquery.ipfsforms/master/jquery.PersistPlugin.js"></script>
+```
 
 ## Usage
 

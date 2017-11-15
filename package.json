@@ -1,6 +1,6 @@
 {
   "name": "jquery.ipfsforms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "jQuery Plugin to persist selectable form data into IPFS (and retrieve Hash)",
   "main": "jquery.PersistPlugin.js",
   "scripts": {
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "jquery-plugin",
-    "ipfs"
+    "ipfs",
+    "form",
+    "ecosystem:jquery"
   ],
   "author": "Thorsten Zoerner <thorsten.zoerner@stromdao.de>",
   "license": "MIT",
